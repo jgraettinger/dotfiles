@@ -1,0 +1,18 @@
+[user]
+	name = Johnny Graettinger
+	email = 209664+jgraettinger@users.noreply.github.com
+
+[core]
+	editor = nvim
+
+[push]
+	default = current
+
+[color]
+	ui = true
+
+[init]
+	defaultBranch = main
+
+[pull]
+	rebase = true
